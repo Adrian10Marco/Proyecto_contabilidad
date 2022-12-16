@@ -603,7 +603,7 @@ figure.effect-goliath:hover p {
     .tm-copyright { margin-left: 15px; }
 }
 
-@media (max-width: 592px) {
+@media (max-width: 1092px) {
     .tm-brand { 
         position: static;
         margin-left: auto;
